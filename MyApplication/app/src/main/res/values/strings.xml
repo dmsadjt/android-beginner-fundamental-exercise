@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="move_activity">Move Activity</string>
+    <string name="moved_activity">You moved!</string>
+    <string name="move_activity_with_data">Move Activity with Data</string>
+    <string name="move_activity_with_parcel">Move Activity with Parcel</string>
+    <string name="object_received">Object Received</string>
+    <string name="choose_a_number">Choose a number</string>
+    <string name="rb_50">50</string>
+    <string name="rb_250">250</string>
+    <string name="rb_200">200</string>
+    <string name="rb_150">150</string>
+    <string name="rb_100">100</string>
+    <string name="btn_choose">Choose</string>
+    <string name="btn_choose_number">Choose a Number</string>
+    <string name="tv_result">Selection Result</string>
+</resources>
